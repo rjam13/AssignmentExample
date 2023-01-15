@@ -1,10 +1,4 @@
-/**************************************************************
-	Purpose/Description: This program is intended to find the number of instances of value k in a given sorted array
-	 						with possible duplicate elements using an efficient algorithm.
-	Author’s Panther ID: 6241999
-	Certification: I hereby certify that this work is my own and none of it is the work of any other person.
 
-	**************************************************************/
 public class problem1 
 	{
 		public static void main(String [] args) {
